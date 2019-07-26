@@ -1,0 +1,9 @@
+Top Down
+Bullet Hell/Dodging Game
+Dash ability
+Enemies with simple shooting AI's (They shoot as if they aim at the current player's location)
+Levels are generated with simple dungeon generator(optional)
+if not then use text file to create own levels
+killing all enemies lowers you to next floor
+placeholder art with simple animation
+

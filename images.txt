@@ -1,0 +1,15 @@
+single,tile,tile.png
+single,brick,brick.png
+single,projectile,projectile.png
+single,enemy,enemy.png
+single,shadowTile,shadowTile.png
+single,rangedEnemy,rangedEnemy.png
+single,enemyProjectile,enemyProjectile.png
+GLSN,2,2,playerDown,playerRight,playerUp,playerLeft,player.png
+single,treasureChest,treasureChest.png
+single,treasureChestOpen,treasureChestOpen.png
+single,staff,Green Staff.png
+single,redStaff,Red Staff.png
+GLNbL,12,1,explosion,Explosion.png
+single,piercingProjectile,piercingProjectile.png
+single,gameOver,gameOver.png

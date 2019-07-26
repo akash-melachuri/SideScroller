@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SideScroller:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SideScroller_jar</output-path>
+    <root id="archive" name="SideScroller.jar">
+      <element id="module-output" name="SideScroller" />
+    </root>
+  </artifact>
+</component>
